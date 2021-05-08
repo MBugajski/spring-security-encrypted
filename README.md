@@ -11,3 +11,4 @@ Demo project for Spring Security complete with encrypted password storage (fork 
 * MySQL
 * JDBC
 * Hibernate
+* bcrypt
